@@ -1,2 +1,2 @@
 # wetube-re-clone
-BroJ Clone built using NodeJs, Express, Mongo and ES6 💪
+Wetube Clone built using NodeJs, Express, Mongo and ES6 💪
